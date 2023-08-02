@@ -1,0 +1,61 @@
+body{
+   background-color: cornsilk;
+}
+
+ h1{
+    font-family:'Capriola', sans-serif;
+    font-size: 64px;
+    color:rgb(24, 71, 173);
+    text-align: center;
+ }
+
+ h4{
+    font-family:'Capriola', sans-serif;
+    font-size: 20px;
+    color:rgb(24, 71, 173);
+    text-align: center;
+
+ }
+
+
+ section{
+   
+    font-size: 15px;
+    font-family:'Itim', cursive;
+    color:rgb(24, 71, 173);
+    align-items: space-evenly;
+    
+ }
+
+.ilust{
+    width: 200px;
+    height: auto;
+    border-radius: 30cm;
+    align-content:space-between;
+
+}
+
+footer{
+   background-color: rgb(151, 177, 226);
+   border: rgb(220, 228, 245) 3px dotted;
+   font-family:'Capriola', sans-serif;
+   font-size: 13px;
+   color:rgb(24, 71, 173);
+   text-align: center;
+}
+
+header {
+   background-color: rgb(151, 177, 226);
+   border: rgb(220, 228, 245) 3px dotted;
+   font-family:'Capriola', sans-serif;
+   font-size: 13px;
+   color:rgb(24, 71, 173);
+   text-align:left;
+}
+ link{
+   text-align: right;
+ }
+
+ p{
+   
+ }
