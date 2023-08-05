@@ -46,7 +46,7 @@ body{
 
 footer{
    background-color: rgb(151, 177, 226);
-   border: rgb(220, 228, 245) 41px dotted;
+   border: rgb(220, 228, 245) 3px dotted;
    font-family:'Capriola', sans-serif;
    font-size: 13px;
    color:rgb(29, 88, 214);
@@ -54,6 +54,7 @@ footer{
 }
 
 header {
+   align-self: center;
    background-color: rgb(151, 177, 226);
    border: rgb(220, 228, 245) 3px dotted;
    font-family:'Capriola', sans-serif;
@@ -62,7 +63,10 @@ header {
 }
 
 a{
-   text-align: right;
+   align-self: right;
 }
  
+.logo{
+   align-self: center;
+}
 
