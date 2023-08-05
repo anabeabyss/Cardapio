@@ -1,18 +1,27 @@
 body{
-   background-color: cornsilk;
+   background-color: rgb(240, 222, 160);
+   margin: 20px ;
 }
 
  h1{
     font-family:'Capriola', sans-serif;
     font-size: 64px;
-    color:rgb(24, 71, 173);
+    color:rgb(29, 88, 214);
     text-align: center;
+ }
+
+ h2{
+   font-family:'Capriola', sans-serif;
+    font-size: 25px;
+    color:rgb(29, 88, 214);
+    text-align: center;
+
  }
 
  h4{
     font-family:'Capriola', sans-serif;
     font-size: 20px;
-    color:rgb(24, 71, 173);
+    color:rgb(29, 88, 214);
     text-align: center;
 
  }
@@ -22,7 +31,7 @@ body{
    
     font-size: 15px;
     font-family:'Itim', cursive;
-    color:rgb(24, 71, 173);
+    color:rgb(29, 88, 214);
     align-items: space-evenly;
     
  }
@@ -37,10 +46,10 @@ body{
 
 footer{
    background-color: rgb(151, 177, 226);
-   border: rgb(220, 228, 245) 3px dotted;
+   border: rgb(220, 228, 245) 41px dotted;
    font-family:'Capriola', sans-serif;
    font-size: 13px;
-   color:rgb(24, 71, 173);
+   color:rgb(29, 88, 214);
    text-align: center;
 }
 
@@ -48,14 +57,12 @@ header {
    background-color: rgb(151, 177, 226);
    border: rgb(220, 228, 245) 3px dotted;
    font-family:'Capriola', sans-serif;
-   font-size: 13px;
-   color:rgb(24, 71, 173);
-   text-align:left;
+   font-size: 15px;
+   color:rgb(29, 88, 214);
 }
- link{
-   text-align: right;
- }
 
- p{
-   
- }
+a{
+   text-align: right;
+}
+ 
+
