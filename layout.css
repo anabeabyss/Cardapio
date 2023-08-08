@@ -1,6 +1,9 @@
 body{
    background-color: rgb(240, 222, 160);
-   margin: 20px ;
+   margin: 8px;
+   align-content: center;
+   border: 5px rgb(29, 88, 214) dotted;
+   padding: 5%;
 }
 
  h1{
@@ -29,44 +32,62 @@ body{
 
  section{
    
+   width:auto;
+   height: auto;
     font-size: 15px;
     font-family:'Itim', cursive;
     color:rgb(29, 88, 214);
-    align-items: space-evenly;
+    display: flex;
+   justify-content: center;
+   background-color: rgb(122, 161, 247);
+   border: rgb(220, 228, 245) 3px dotted;
+   border-radius: 12cm;
+
+
+   article {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      margin: 12px;
+  }
     
  }
 
+
+
 .ilust{
-    width: 200px;
-    height: auto;
-    border-radius: 30cm;
-    align-content:space-between;
+    height: 250px;
+    width: 250px;
+    border-style: dotted;
+    border-width: 6px ;
+    border-radius: 360cm;
+    border-color:rgb(29, 88, 214);
 
 }
 
 footer{
-   background-color: rgb(151, 177, 226);
+   background-color:rgb(122, 161, 247);
    border: rgb(220, 228, 245) 3px dotted;
    font-family:'Capriola', sans-serif;
-   font-size: 13px;
+   font-size: 16px;
    color:rgb(29, 88, 214);
    text-align: center;
+   border-radius: 12cm;
 }
 
 header {
-   align-self: center;
-   background-color: rgb(151, 177, 226);
+   background-color:rgb(122, 161, 247);
    border: rgb(220, 228, 245) 3px dotted;
+   border-radius: 360cm;
    font-family:'Capriola', sans-serif;
-   font-size: 15px;
+   font-size: 30px;
    color:rgb(29, 88, 214);
-}
+   text-align: center;
+   } 
 
-a{
-   align-self: right;
-}
- 
-.logo{
+logo{
+   size: 824cm x 244cm;
    align-self: center;
 }
 
