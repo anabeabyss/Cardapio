@@ -1,22 +1,23 @@
 body{
    background-color: rgb(240, 222, 160);
-   margin: 8px;
+   outline:14px cornflowerblue solid;
+   margin: 14px;
    align-content: center;
    border: 5px rgb(29, 88, 214) dotted;
-   padding: 5%;
+   padding: 7%;
 }
 
  h1{
     font-family:'Capriola', sans-serif;
     font-size: 64px;
-    color:rgb(29, 88, 214);
+    color:rgb(24, 70, 170);
     text-align: center;
  }
 
  h2{
    font-family:'Capriola', sans-serif;
     font-size: 25px;
-    color:rgb(29, 88, 214);
+    color:rgb(24, 70, 170);
     text-align: center;
 
  }
@@ -24,7 +25,7 @@ body{
  h4{
     font-family:'Capriola', sans-serif;
     font-size: 20px;
-    color:rgb(29, 88, 214);
+    color:rgb(24, 70, 170);
     text-align: center;
 
  }
@@ -34,12 +35,13 @@ body{
    
    width:auto;
    height: auto;
-    font-size: 15px;
+    font-size: 20px;
     font-family:'Itim', cursive;
-    color:rgb(29, 88, 214);
+    color:rgb(24, 70, 170);
     display: flex;
    justify-content: center;
    background-color: rgb(122, 161, 247);
+   padding: 20px;
    border: rgb(220, 228, 245) 3px dotted;
    border-radius: 12cm;
 
@@ -71,7 +73,7 @@ footer{
    border: rgb(220, 228, 245) 3px dotted;
    font-family:'Capriola', sans-serif;
    font-size: 16px;
-   color:rgb(29, 88, 214);
+   color:rgb(24, 70, 170);
    text-align: center;
    border-radius: 12cm;
 }
@@ -82,7 +84,7 @@ header {
    border-radius: 360cm;
    font-family:'Capriola', sans-serif;
    font-size: 30px;
-   color:rgb(29, 88, 214);
+   color:rgb(24, 70, 170);
    text-align: center;
    } 
 
